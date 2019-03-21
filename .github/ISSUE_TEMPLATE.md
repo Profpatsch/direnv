@@ -7,4 +7,5 @@
 <!-- to better help you, please provide the following information: -->
 
 * `direnv version`:
-* OS release: (eg: Ubuntu 16.04)
+* OS release: <!-- (eg: Ubuntu 16.04) -->
+* Shell: <!-- eg: `bash --version`, `fish --version` -->
